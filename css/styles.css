@@ -82,7 +82,7 @@ ul {
 .mail:hover,
 .mail:focus,
 .tel:hover,
-.tel.focus,
+.tel:focus,
 .active {
     color: var(--accent-color);
 }
@@ -287,7 +287,7 @@ ul {
 }
 
 .soc-icon {
-    fill: var(--secondary-text-color);
+    fill: #AFB1B8;
 }
 
 .soc-link {
@@ -317,7 +317,6 @@ ul {
 /* section clients */
 
 .section-clients {
-    background-color: var(--bg-white2-color);
     padding-top: 94px;
     padding-bottom: 94px;
 }
@@ -344,7 +343,7 @@ ul {
 }
 
 .clients-icon {
-    fill: var(--secondary-text-color);
+    fill: #AFB1B8;
 }
 
 .clients-link:hover {
